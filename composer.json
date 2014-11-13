@@ -1,6 +1,9 @@
   {
     "name": "schmudde/css-colorguard",
+    "version": "0.2.0",
     "description": "Keep a watchful eye on your css colors",
+    "main": "index.js",
+    "preferGlobal": true,  
     "author": "Alex Sexton <alexsexton@gmail.com>",
     "license": "Apache 2.0",
     "homepage": "https://github.com/SlexAxton/css-colorguard"
